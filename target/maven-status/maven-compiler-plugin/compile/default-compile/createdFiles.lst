@@ -1,0 +1,17 @@
+com\jotech\mssc_brewery\web\model\BeerDto.class
+com\jotech\mssc_brewery\service\CustomerServiceImpl.class
+com\jotech\mssc_brewery\service\v2\BeerServiceV2.class
+com\jotech\mssc_brewery\web\controller\CustomerController.class
+com\jotech\mssc_brewery\web\controller\v2\BeerControllerV2.class
+com\jotech\mssc_brewery\web\model\CustomerDto.class
+com\jotech\mssc_brewery\service\v2\BeerServiceV2Impl.class
+com\jotech\mssc_brewery\web\model\CustomerDto$CustomerDtoBuilder.class
+com\jotech\mssc_brewery\service\BeerService.class
+com\jotech\mssc_brewery\service\BeerServiceImpl.class
+com\jotech\mssc_brewery\web\model\v2\BeerStyleEnum.class
+com\jotech\mssc_brewery\service\CustomerService.class
+com\jotech\mssc_brewery\MsscBreweryApplication.class
+com\jotech\mssc_brewery\web\model\BeerDto$BeerDtoBuilder.class
+com\jotech\mssc_brewery\web\model\v2\BeerDtoV2$BeerDtoV2Builder.class
+com\jotech\mssc_brewery\web\controller\BeerController.class
+com\jotech\mssc_brewery\web\model\v2\BeerDtoV2.class

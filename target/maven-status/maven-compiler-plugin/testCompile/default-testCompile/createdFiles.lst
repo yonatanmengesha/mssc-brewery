@@ -1,0 +1,4 @@
+com\jotech\mssc_brewery\web\controller\BeerControllerTest.class
+com\jotech\mssc_brewery\web\controller\v2\BeerControllerV2Test.class
+com\jotech\mssc_brewery\web\controller\CustomerControllerTest.class
+com\jotech\mssc_brewery\MsscBreweryApplicationTests.class
